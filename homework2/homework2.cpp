@@ -3,8 +3,7 @@
 #include <string> 
 #include <cctype>    // 提供字元處理功能，其中用來確定字元是否為大寫字母、數字、標點符號
 #include <sstream>   // 專門拿來讀取字串並且處理，很多時候拿來做字串的切割
-#include <vector>    // 提供向量功能
-#include <map>       // 提供映射功能
+#include <map>       // map是一個關聯式容器,使用上把鍵值和一個元素連繫起來
 
 using namespace std;
 
