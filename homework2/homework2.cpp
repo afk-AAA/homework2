@@ -5,7 +5,6 @@
 #include <sstream>   // 包含字串流的相關標頭檔
 #include <vector>    // 包含向量的相關標頭檔
 #include <map>       // 包含映射的相關標頭檔
-#include <algorithm> // 包含演算法的相關標頭檔
 
 using namespace std;
 
